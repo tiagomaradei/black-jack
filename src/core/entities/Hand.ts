@@ -7,11 +7,11 @@ export default class Hand {
     this.cards = [];
   }
 
-  public addCard(card: Card) {
+  public addCard(card: Card): void {
     this.cards.push(card);
   }
 
-  public getValue() {
+  public getValue(): number {
     let value = 0;
     let numAces = 0;
 
