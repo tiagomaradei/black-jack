@@ -1,7 +1,7 @@
 # Blackjack Game Documentation
 
 ## Introduction
-This document provides an overview of the Blackjack game implementation and how to run it. The code was design using [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) principles.
+This document provides an overview of the Blackjack game implementation and how to run it. The code was designed using [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) principles.
 
 ## Rules of Blackjack
 Blackjack is a popular card game where players aim to achieve a hand value as close to 21 as possible without exceeding it. The player competes against a dealer, and the goal is to have a higher hand value than the dealer without busting (going over 21).
